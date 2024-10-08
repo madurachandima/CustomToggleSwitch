@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Custom Toggle Switch"
 include(":app")
- 
+include(":app:toggleswitch")
