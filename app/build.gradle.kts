@@ -40,5 +40,7 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
-    implementation ( project("toggleswitch"))
+//    implementation ( project("toggleswitch"))
+//    implementation ("com.github.madurachandima:CustomToggleSwitch:1.0.0")
+
 }

@@ -49,7 +49,7 @@ afterEvaluate {
             register<MavenPublication>("release") {
                 groupId = "com.github.madurachandima"
                 artifactId = "toggleswitch"
-                version = "1.0"
+                version = "1.0.2"
                 afterEvaluate {
                     from(components["release"])
                 }
